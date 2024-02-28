@@ -1,3 +1,5 @@
-| #    | Title                                                                               | Solution | Difficulty |
-| ---- | ----------------------------------------------------------------------------------- | -------- | ---------- |
-| 1946 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JS](),  | Easy       |
+| #    | Title                                                                                       | Solution                                                                                                                         | Difficulty |
+| ---- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)         | [JS](https://github.com/sazit96/Leetcode-Problem-Solving-With-JS/blob/main/01-Arrays%20%26%20Hashing/01.ContainsDuplicate.js)    | Easy       |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                   | [JS](https://github.com/sazit96/Leetcode-Problem-Solving-With-JS/blob/main/01-Arrays%20%26%20Hashing/02.ValidAnagram.js)         | Easy       |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [JS](https://github.com/sazit96/Leetcode-Problem-Solving-With-JS/blob/main/01-Arrays%20%26%20Hashing/03.ConcatenationofArray.js) | Easy       |
