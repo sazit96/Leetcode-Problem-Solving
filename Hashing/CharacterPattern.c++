@@ -7,7 +7,7 @@ int main()
     cin >> s;
 
     // pre compute
-    int hash[26] = {0}; // this is work for small character / if need for all character then give 256 hear
+    int hash[26] = {0}; // this is work for small character / if need for all character then give 256 hear-
     for (int i = 0; i < s.size(); i++)
     {
         hash[s[i] - 'a']++; // hear no need to give - 'a'
